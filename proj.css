@@ -152,3 +152,10 @@ li{
     float: left;
     margin-right: 100px;
 }
+#foot{
+    display: flex;
+    margin-left: -60px;
+}
+#foot li{
+    margin-right: 10px;
+}
